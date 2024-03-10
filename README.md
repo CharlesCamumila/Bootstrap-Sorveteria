@@ -1,6 +1,6 @@
 # Sorveteria Sobremesa
 
-Este é um projeto de site para uma sorveteria fictícia chamada "Sobremesas ice cream". O site foi desenvolvido utilizando HTML, CSS e Bootstrap.
+Este é um projeto de site para uma sorveteria fictícia chamada "Sobremesas ice cream". O site foi desenvolvido utilizando HTML, CSS, JavaScript e Bootstrap.
 
 ## Visão Geral
 
@@ -20,6 +20,7 @@ O site da Sorveteria Sobremesa foi projetado para oferecer uma experiência agra
 
 - HTML5
 - CSS3
+- JavaScript
 - Bootstrap 4
 
 ## Autor
