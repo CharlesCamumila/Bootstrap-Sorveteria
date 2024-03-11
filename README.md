@@ -2,6 +2,8 @@
 
 Este é um projeto de site para uma sorveteria fictícia chamada "Sobremesas ice cream". O site foi desenvolvido utilizando HTML, CSS, JavaScript e Bootstrap.
 
+#### para acessar site clique aqui: https://charlescamumila.github.io/Bootstrap-Sorveteria/
+
 ## Visão Geral
 
 O site da Sorveteria Sobremesa foi projetado para oferecer uma experiência agradável aos clientes, apresentando informações sobre os produtos oferecidos, localização da sorveteria e a possibilidade de contato via WhatsApp para facilitar a comunicação.
